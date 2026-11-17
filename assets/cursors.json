@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bunt_01",
+    "name": "Bunte Cursor 01",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_01.png"
+  },
+  {
+    "id": "bunt_02",
+    "name": "Bunte Cursor 02",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_02.png"
+  },
+  {
+    "id": "bunt_03",
+    "name": "Bunte Cursor 03",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_03.png"
+  },
+  {
+    "id": "bunt_04",
+    "name": "Bunte Cursor 04",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_04.png"
+  },
+  {
+    "id": "bunt_05",
+    "name": "Bunte Cursor 05",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_05.png"
+  },
+  {
+    "id": "bunt_06",
+    "name": "Bunte Cursor 06",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_06.png"
+  },
+  {
+    "id": "bunt_07",
+    "name": "Bunte Cursor 07",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_07.png"
+  },
+  {
+    "id": "bunt_08",
+    "name": "Bunte Cursor 08",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_08.png"
+  },
+  {
+    "id": "bunt_09",
+    "name": "Bunte Cursor 09",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_09.png"
+  },
+  {
+    "id": "bunt_10",
+    "name": "Bunte Cursor 10",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_10.png"
+  },
+  {
+    "id": "bunt_11",
+    "name": "Bunte Cursor 11",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_11.png"
+  },
+  {
+    "id": "bunt_12",
+    "name": "Bunte Cursor 12",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_12.png"
+  },
+  {
+    "id": "bunt_13",
+    "name": "Bunte Cursor 13",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_13.png"
+  },
+  {
+    "id": "bunt_14",
+    "name": "Bunte Cursor 14",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_14.png"
+  },
+  {
+    "id": "bunt_15",
+    "name": "Bunte Cursor 15",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_15.png"
+  },
+  {
+    "id": "bunt_16",
+    "name": "Bunte Cursor 16",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_16.png"
+  },
+  {
+    "id": "bunt_17",
+    "name": "Bunte Cursor 17",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_17.png"
+  },
+  {
+    "id": "bunt_18",
+    "name": "Bunte Cursor 18",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_18.png"
+  },
+  {
+    "id": "bunt_19",
+    "name": "Bunte Cursor 19",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_19.png"
+  },
+  {
+    "id": "bunt_20",
+    "name": "Bunte Cursor 20",
+    "group": "Bunte Cursor",
+    "file": "assets/cursors/bunt_20.png"
+  },
+  {
+    "id": "galaktisch_01",
+    "name": "Galaktische Cursor 01",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_01.png"
+  },
+  {
+    "id": "galaktisch_02",
+    "name": "Galaktische Cursor 02",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_02.png"
+  },
+  {
+    "id": "galaktisch_03",
+    "name": "Galaktische Cursor 03",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_03.png"
+  },
+  {
+    "id": "galaktisch_04",
+    "name": "Galaktische Cursor 04",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_04.png"
+  },
+  {
+    "id": "galaktisch_05",
+    "name": "Galaktische Cursor 05",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_05.png"
+  },
+  {
+    "id": "galaktisch_06",
+    "name": "Galaktische Cursor 06",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_06.png"
+  },
+  {
+    "id": "galaktisch_07",
+    "name": "Galaktische Cursor 07",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_07.png"
+  },
+  {
+    "id": "galaktisch_08",
+    "name": "Galaktische Cursor 08",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_08.png"
+  },
+  {
+    "id": "galaktisch_09",
+    "name": "Galaktische Cursor 09",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_09.png"
+  },
+  {
+    "id": "galaktisch_10",
+    "name": "Galaktische Cursor 10",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_10.png"
+  },
+  {
+    "id": "galaktisch_11",
+    "name": "Galaktische Cursor 11",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_11.png"
+  },
+  {
+    "id": "galaktisch_12",
+    "name": "Galaktische Cursor 12",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_12.png"
+  },
+  {
+    "id": "galaktisch_13",
+    "name": "Galaktische Cursor 13",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_13.png"
+  },
+  {
+    "id": "galaktisch_14",
+    "name": "Galaktische Cursor 14",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_14.png"
+  },
+  {
+    "id": "galaktisch_15",
+    "name": "Galaktische Cursor 15",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_15.png"
+  },
+  {
+    "id": "galaktisch_16",
+    "name": "Galaktische Cursor 16",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_16.png"
+  },
+  {
+    "id": "galaktisch_17",
+    "name": "Galaktische Cursor 17",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_17.png"
+  },
+  {
+    "id": "galaktisch_18",
+    "name": "Galaktische Cursor 18",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_18.png"
+  },
+  {
+    "id": "galaktisch_19",
+    "name": "Galaktische Cursor 19",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_19.png"
+  },
+  {
+    "id": "galaktisch_20",
+    "name": "Galaktische Cursor 20",
+    "group": "Galaktische Cursor",
+    "file": "assets/cursors/galaktisch_20.png"
+  }
+]
